@@ -1,4 +1,5 @@
 * Images Dragon food
 
 
-![burguer_fritas](https://github.com/Everton10info/imagens/assets/64455494/5d11df7c-b7eb-45af-8ca8-7e9969c6e54e)
+
+![burguer-e-batata-frita](https://github.com/Everton10info/imagens/assets/64455494/a10d2602-7500-4c1a-95b2-72ff9070b096)
