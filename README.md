@@ -2,10 +2,11 @@
 
 
 
+![Combo batata e hamburguer 1](https://github.com/Everton10info/imagens/assets/64455494/095bf27f-aee9-4e5c-b6cc-60260f3725fc)
 
-![Combo batata e hamburguer 1](https://github.com/Everton10info/imagens/assets/64455494/0edfe04f-4761-41b4-8184-1be6186c77fd)
 
-![Batata frita e queijo 2](https://github.com/Everton10info/imagens/assets/64455494/d7050e05-48ec-4f6c-995b-95514bc1d9a9)
-![Batata frita 2](https://github.com/Everton10info/imagens/assets/64455494/50ea7937-86dc-45d7-929d-d51e19620d4d)
-![Pasteis de frango 2](https://github.com/Everton10info/imagens/assets/64455494/4de1b340-4269-45b3-89e6-929ba85326fa)
-![Sanduiche 2](https://github.com/Everton10info/imagens/assets/64455494/fddc77a9-355a-4037-9749-5a7d25d56109)
+
+![Batata frita e queijo 2](https://github.com/Everton10info/imagens/assets/64455494/07885da0-dc9a-4cfd-a5ba-b2b273093baf)
+![Batata frita 2](https://github.com/Everton10info/imagens/assets/64455494/13faaf77-ffd6-4467-80a8-be096b5b88cc)
+![Pasteis de frango 2](https://github.com/Everton10info/imagens/assets/64455494/1195c8b8-803f-459c-9b19-db8ffee00455)
+![Sanduiche 2](https://github.com/Everton10info/imagens/assets/64455494/da762776-1419-4358-89be-191298991591)
